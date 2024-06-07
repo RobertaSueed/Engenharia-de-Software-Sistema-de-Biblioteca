@@ -6,7 +6,7 @@ Este projeto tem como objetivo mostrar como é desenvolvido um software e o obje
 ***
 ### Membros: 
 
-Arthur Motta Cumming -
+Arthur Motta Cumming - https://github.com/ArthurM0tta/Trabalho-engenharia-de-software-/tree/main
 
 Natanael Henrique Encarnação Das Mandias -
 
