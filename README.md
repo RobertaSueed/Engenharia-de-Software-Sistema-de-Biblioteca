@@ -14,7 +14,7 @@ Laís Medeiros Costa Gonçalves -
 
 Letícia Medeiros Costa Gonçalves -
 
-Roberta Sued Nascimento Gomes De Santana -
+Roberta Sued Nascimento Gomes De Santana - https://github.com/RobertaSueed/Engenharia-de-Software-Sistema-de-Biblioteca
 
 Rui Romer Cupertino Sacramento Junior - https://github.com/ruiRomer/EngenhariadeSoftware-Sistema_de_Biblioteca
 
